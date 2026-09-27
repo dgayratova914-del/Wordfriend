@@ -1,0 +1,6 @@
+{
+  "name": "WordPress Integration Hub",
+  "description": "AI Studio ilovalarini WordPress saytlariga iframe, REST API, shortcode va statik eksport orqali oson ulash bo'yicha interaktiv qo'llanma va kod generatori.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
